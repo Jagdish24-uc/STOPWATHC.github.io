@@ -8,9 +8,9 @@ Display of the elapsed time in hours, minutes, seconds and milliseconds
 Styling with CSS to make the app look pretty
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 # Preview
 ![image](https://user-images.githubusercontent.com/71270068/235355510-55dd1a83-34fa-4d72-9ec5-a82024be000b.png)
