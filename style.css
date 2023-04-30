@@ -1,0 +1,51 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.stopwatch {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #bbb;
+  margin: 0 auto;
+  text-align: center;
+  width: 300px;
+}
+
+.display {
+  background-color: #f1f1f1;
+  border-radius: 10px 10px 0 0;
+  color: #555;
+  font-size: 48px;
+  margin-bottom: 10px;
+  padding: 20px 0;
+}
+
+.btn {
+  border-radius: 5px;
+  font-size: 24px;
+  padding: 10px 20px;
+  text-shadow: 1px 1px #fff;
+}
+
+.start {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  color: #fff;
+}
+
+.stop {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+  color: #fff;
+}
+
+.reset {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  color: #fff;
+}
