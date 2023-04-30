@@ -3,9 +3,10 @@
 This is a simple stopwatch app built using vanilla JavaScript and CSS.
 
 ## Features
-Start, stop and reset buttons to control the stopwatch
-Display of the elapsed time in hours, minutes, seconds and milliseconds
-Styling with CSS to make the app look pretty
+Start, stop and reset buttons to control the stopwatch.
+Display of the elapsed time in hours, minutes, seconds.
+Styling with CSS to make the app look pretty.
+Bootstrap to create a responsive layout that would adjust automatically to different screen sizes.
 
 ## Technologies Used
 1. HTML
