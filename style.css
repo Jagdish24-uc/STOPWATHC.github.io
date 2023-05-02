@@ -28,7 +28,6 @@ body {
   padding: 20px 0;
   font-family:Times New Roman;
 }
-
 .btn {
   border-radius: 5px;
   font-size: 20px;
@@ -42,33 +41,22 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
-
-
+.btn:hover{
+  background-color: #000000;
+}
 .start {
   background-color: #5cb85c;
   border-color: #4cae4c;
   color: #fff;
 
 }
-.start:hover {
-  background-color: #000000;
-}
-
 .stop {
   background-color: #d9534f;
   border-color: #d43f3a;
   color: #fff;
 }
-.stop:hover {
-  background-color: #000000;
-}
-
 .reset {
   background-color: #337ab7;
   border-color: #2e6da4;
   color: #fff;
 }
-.reset:hover {
-  background-color: #000000;
-}
-
