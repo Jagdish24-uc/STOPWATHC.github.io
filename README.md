@@ -14,7 +14,7 @@ Bootstrap to create a responsive layout that would adjust automatically to diffe
 3. JavaScript
 
 # Preview
-![image](https://user-images.githubusercontent.com/71270068/235355510-55dd1a83-34fa-4d72-9ec5-a82024be000b.png)
+![image](https://user-images.githubusercontent.com/71270068/235589508-1fb703ca-1317-4057-a974-9b5f50d70627.png)
 
 ## Installation
 Open the index.html file in your browser
