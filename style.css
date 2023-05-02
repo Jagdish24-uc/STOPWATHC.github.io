@@ -1,14 +1,18 @@
+/* This CSS rule sets the background color to light gray, centers the text, and sets the font family to Times New Roman. */
 body {
   background-color: #f5f5f5;
   text-align: center;
-  font-family:Times New Roman;
+  font-family: Times New Roman;
 }
 
+
+/* This CSS rule sets a top margin of 50 pixels for elements with the class "container". */
 .container {
   margin-top: 50px;
-
 }
 
+
+/* This CSS rule styles an element with the class "stopwatch". It sets the background color to light gray, adds a border and a box shadow, centers the element, sets the text alignment to center, and sets the width to 500 pixels. */
 .stopwatch {
   background-color: #ccc;
   border: 1px solid #ccc;
@@ -19,6 +23,8 @@ body {
   width: 500px;
 }
 
+
+/* This CSS rule styles an element with the class "display". It sets the background color to light gray, adds rounded corners to the top, sets the color to dark gray, sets the font size to 48 pixels, adds a margin at the bottom, and adds padding to the top and bottom. */
 .display {
   background-color: #f1f1f1;
   border-radius: 10px 10px 0 0;
@@ -26,8 +32,10 @@ body {
   font-size: 48px;
   margin-bottom: 10px;
   padding: 20px 0;
-  font-family:Times New Roman;
 }
+
+
+/* This CSS rule styles elements with the class "btn". It sets the border radius to 5 pixels, sets the font size to 20 pixels, adds padding, removes the border, sets the text color to white, centers the text, removes the text decoration, displays the element as an inline block, adds margin, and sets the cursor to pointer. */
 .btn {
   border-radius: 5px;
   font-size: 20px;
@@ -41,22 +49,34 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+/* This CSS rule styles the hover state of elements with the class "btn". It sets the background color to black when the element is being hovered over. */
 .btn:hover{
   background-color: #000000;
 }
+
+
+/* This CSS rule styles an element with the class "start". It sets the background color to green, sets the border color to a darker shade of green, and sets the text color to white. */
 .start {
   background-color: #5cb85c;
   border-color: #4cae4c;
   color: #fff;
-
 }
+
+
+/* This CSS rule styles an element with the class "stop". It sets the background color to red, sets the border color to a darker shade of red, and sets the text color to white. */
 .stop {
   background-color: #d9534f;
   border-color: #d43f3a;
   color: #fff;
 }
+
+
+/* This CSS rule styles an element with the class "reset". It sets the background color to blue, sets the border color to a darker shade of blue, and sets the text color to white. */
 .reset {
   background-color: #337ab7;
   border-color: #2e6da4;
   color: #fff;
 }
+
+
